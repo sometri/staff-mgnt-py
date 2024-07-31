@@ -1,0 +1,8 @@
+staff_management/
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── add_staff.html
+│   └── staff_list.html
+└── static/
+

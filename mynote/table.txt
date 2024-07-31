@@ -1,0 +1,11 @@
+CREATE DATABASE staff_mgnt_py;
+
+USE staff_mgnt_py;
+
+CREATE TABLE staffs (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(100),
+  position VARCHAR(100),
+  department VARCHAR(100),
+  email VARCHAR(100)
+);

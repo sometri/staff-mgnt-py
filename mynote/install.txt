@@ -1,0 +1,9 @@
+pip install flask
+pip show flask
+
+.venv\Scripts\activate
+PS C:\xampp\htdocs\mystudy\staff-mgnt-py> .venv\Scripts\activate
+
+pip install mysql-connector-python
+pip show mysql-connector-python
+

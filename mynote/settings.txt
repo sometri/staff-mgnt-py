@@ -1,0 +1,12 @@
+http://localhost/phpmyadmin/
+cd C:/xampp/htdocs/mystudy/staff-mgnt-py
+python app.py
+
+========
+other study:
+python3 app.py
+python -m venv venv
+venv\Scripts\activate
+pip install flask
+
+ * Running on http://127.0.0.1:5000
